@@ -5,3 +5,4 @@
 </quick-option>
 <allow-dev-repo-cert>true</allow-dev-repo-cert>
 <partition-mode>erase-entire-disk</partition-mode>
+<install-pba>true</install-pba>
